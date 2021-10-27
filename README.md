@@ -13,10 +13,10 @@ The code requires the version of Matlab2018a, Ubuntu 16.04.
 The original MSRC dataset can be downloaded from [here](https://www.microsoft.com/en-us/research/project/image-understanding/?from=http%3A%2F%2Fresearch.microsoft.com%2Fvision%2Fcambridge%2Frecognition%2F). We place the processed dataset in `database/MSRC/` folder.
 
 ### Demo
-Run the demo `IKDE_BSDS300_searchN.m` for 'BSD300'.
-Run the demo `IKDE_BSDS500_searchN.m` for 'BSD500'.
-Run the demo `IKDE_MSRC_searchN.m` for 'MSRC'.
-Run the demo `IKDE_SBD_searchN.m` for 'SBD'.
+Run the demo `IKDE_BSDS300_searchN.m` for 'BSD300'.  
+Run the demo `IKDE_BSDS500_searchN.m` for 'BSD500'.  
+Run the demo `IKDE_MSRC_searchN.m` for 'MSRC'.  
+Run the demo `IKDE_SBD_searchN.m` for 'SBD'.  
 Run the demo `IKDE_VOC_searchN.m` for 'PASCAL VOC'.
 
 ### Results of FIVE datasets in the paper
