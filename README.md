@@ -14,10 +14,10 @@ The original MSRC dataset can be downloaded from [here](https://www.microsoft.co
 
 ### Demo
 Run the demo `IKDE_BSDS300_searchN.m` for 'BSD300'.
-Run the demo `IKDE_BSDS500_searchN.m` for 'BSD300'.
-Run the demo `IKDE_MSRC_searchN.m` for 'BSD300'.
-Run the demo `IKDE_SBD_searchN.m` for 'BSD300'.
-Run the demo `IKDE_VOC_searchN.m` for 'BSD300'.
+Run the demo `IKDE_BSDS500_searchN.m` for 'BSD500'.
+Run the demo `IKDE_MSRC_searchN.m` for 'MSRC'.
+Run the demo `IKDE_SBD_searchN.m` for 'SBD'.
+Run the demo `IKDE_VOC_searchN.m` for 'PASCAL VOC'.
 
 ### Results of FIVE datasets in the paper
 The detailed results of BSD300 can be found in `results_searchN_denoise_n/ikde_1_1/evaluation_BSD300.txt`.  
