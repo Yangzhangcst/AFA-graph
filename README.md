@@ -29,7 +29,7 @@ The detailed results of VOC can be found in `results_searchN_denoise_n/ikde_1_1/
 ### Citing
 If you find this repository useful in your research, please consider citing:
 ```
-@INPROCEEDINGS{AF-Graph,  
+@INPROCEEDINGS{AFA-Graph,  
   author={Y. {Zhang} and M. {Liu} and H. {Zhang} and G. {Sun} and J. {He}},  
   booktitle={arXiv:2110.11685},   
   title={Adaptive Fusion Affinity Graph with Noise-free Online Low-rank Representation for Natural Image Segmentation},   
